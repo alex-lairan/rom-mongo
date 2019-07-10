@@ -1,3 +1,10 @@
+## v0.3.0 2019-07-10
+
+### Added
+
+* Added `rom-core` `5.0.2` support (alex-lairan)
+
+
 ## v0.2.0 2017-04-07
 
 ### Added
