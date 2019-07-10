@@ -3,7 +3,7 @@ require 'rom/struct'
 module ROM
   module Mongo
     class Struct < ROM::Struct
-      constructor_type :symbolized
+      transform_keys(&:to_sym)
     end
   end
 end
